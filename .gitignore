@@ -1,0 +1,2 @@
+# APKs are published as GitHub Release assets, not committed
+*.apk
